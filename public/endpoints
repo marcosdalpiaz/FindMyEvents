@@ -1,0 +1,7 @@
+/events GET FETCH ALL events
+
+/events/{id} GET fetch a single event
+
+/events POST add a new event
+
+/events/{id} DELETE delete a blog
